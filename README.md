@@ -7,8 +7,7 @@ Backend developer with experience in ERP systems. Interested in **low-level prog
 - 💻 Portfolio: [azazahmedlipu.com](https://azazahmedlipu.com/)  
 - ✍️ Writing about: **Software, CS Research, Powerlifting**  
 - 📫 Contact: [lipuahmedazaz79@gmail.com](mailto:lipuahmedazaz79@gmail.com)  
-- 📄 Experience: **Backend Developer | EdTech Startup Founder**  
-- 🏋️‍♂️ Powerlifting: **121 lbs (55 kg) category**  
+- 📄 Experience: **Backend Developer | EdTech Startup Founder**   
 
 ## Connect  
 - Twitter: [@azazahmedlipu79](https://twitter.com/azazahmedlipu79)  
