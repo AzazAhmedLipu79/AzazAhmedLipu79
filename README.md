@@ -3,7 +3,7 @@
 ## About Me  
 Backend developer with experience in ERP systems. Interested in **low-level programming, computer science research (semiconductors, CPU architecture), and interactive learning platforms**.  
 
-- 🌱 Learning: **Machine Learning, Software Testing**  
+- 🌱 Learning: **Machine Learning, Devops**  
 - 💻 Portfolio: [azazahmedlipu.com](https://azazahmedlipu.com/)  
 - ✍️ Writing about: **Software, CS Research, Powerlifting**  
 - 📫 Contact: [lipuahmedazaz79@gmail.com](mailto:lipuahmedazaz79@gmail.com)  
